@@ -1,0 +1,19 @@
+
+.tab{
+   width: 100%;
+    height: 80px;
+    line-height: 80px;
+    border-bottom: 1px solid rgba(7, 17, 27, 0.1);
+    display: flex;
+}
+.tab-item{
+  flex: 1;
+}
+.tab-item a{
+  display: block;
+        text-align: center;
+        font-size: 28px;
+}
+.tab-item a:hover{
+   text-decoration: none;
+}
